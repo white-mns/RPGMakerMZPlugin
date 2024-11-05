@@ -1,0 +1,2 @@
+# RPGMakerMZPlugin
+RPGツクールMZ用のプラグイン一覧です
